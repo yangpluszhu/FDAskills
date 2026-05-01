@@ -1,0 +1,4 @@
+interface:
+  display_name: "fdaNDA"
+  short_description: "Fetch recent FDA approvals and export fdaNDA.xlsx"
+  default_prompt: "Use $fda-nda to gather FDA new drug approvals from the last 12 months and save fdaNDA.xlsx in the current directory."
